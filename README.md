@@ -22,8 +22,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/jiricmiel/jiricmiel.github.io)
-- Live Site URL: [Add live site URL here](https://jiricmiel.github.io/)
+- Solution URL: [https://github.com/jiricmiel/jiricmiel.github.io]
+- Live Site URL: [https://jiricmiel.github.io/]
 
 ## My process
 
@@ -48,10 +48,9 @@ I'll probably stick with using SASS (.scss).
 
 ### Useful resources
 
-- [Example resource 1](https://github.com/kevin-powell) - Kevin is amazing guide for everything regarding HTML & CSS.
-- [Example resource 2](https://github.com/jonasschmedtmann) - Jonas has amazing courses at Udemy. It helped me a lot with everything I know up tu date.
+- [https://github.com/kevin-powell] - Kevin is amazing guide for everything regarding HTML & CSS.
+- [https://github.com/jonasschmedtmann] - Jonas has amazing courses at Udemy. It helped me a lot with everything I know up tu date.
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/jiricmiel)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@jiricmiel](https://www.frontendmentor.io/profile/jiricmiel)
