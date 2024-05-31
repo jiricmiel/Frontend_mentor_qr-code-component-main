@@ -22,6 +22,12 @@ a,
 a:visited,
 a:active {
   text-decoration: none;
+  color: var(--attribution);
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
 }
 
 :root {
@@ -29,6 +35,7 @@ a:active {
   --light-grey: hsl(212, 45%, 89%);
   --grayish-blue: hsl(220, 15%, 55%);
   --dark-blue: hsl(218, 44%, 22%);
+  --attribution: hsl(228, 45%, 44%);
 }
 
 .card {
